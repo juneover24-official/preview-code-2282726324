@@ -1,0 +1,349 @@
+{
+  "qq_number": "2282726324",
+  "group_number": "1009335548",
+  "updated_at": "2026-04-22T16:19:14.762426",
+  "skins": [
+    {
+      "name": "七の取名好难免永01",
+      "file": "七の01.bds",
+      "thumb": "七の01.bds_py_26_default_thumb.png",
+      "full": "七の01.bds_py_26_default.png"
+    },
+    {
+      "name": "lieの太聪明",
+      "file": "lieの太聪明.bds",
+      "thumb": "lieの太聪明.bds_py_26_light_thumb.png",
+      "full": "lieの太聪明.bds_py_26_light.png"
+    },
+    {
+      "name": "lieのooinp",
+      "file": "lieのooinp无动效.bds",
+      "thumb": "lieのooinp无动效.bds_py_26_light_thumb.png",
+      "full": "lieのooinp无动效.bds_py_26_light.png"
+    },
+    {
+      "name": "夏の双生子",
+      "file": "夏の双生子.bds",
+      "thumb": "夏の双生子.bds_py_26_light_thumb.png",
+      "full": "夏の双生子.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの太聪明",
+      "file": "lieの太聪明闷.bds",
+      "thumb": "lieの太聪明闷.bds_py_26_light_thumb.png",
+      "full": "lieの太聪明闷.bds_py_26_light.png"
+    },
+    {
+      "name": "七の02",
+      "file": "七の02.bds",
+      "thumb": "七の02.bds_py_26_light_thumb.png",
+      "full": "七の02.bds_py_26_light.png"
+    },
+    {
+      "name": "常叶青",
+      "file": "lieの常叶青闷.bds",
+      "thumb": "lieの常叶青闷.bds_py_26_light_thumb.png",
+      "full": "lieの常叶青闷.bds_py_26_light.png"
+    },
+    {
+      "name": "七の免永06",
+      "file": "七の06.bds",
+      "thumb": "七の06.bds_py_26_default_thumb.png",
+      "full": "七の06.bds_py_26_default.png"
+    },
+    {
+      "name": "lieの落栀尾信茷",
+      "file": "lieの落栀尾信茷水滴.bds",
+      "thumb": "lieの落栀尾信茷水滴.bds_py_26_light_thumb.png",
+      "full": "lieの落栀尾信茷水滴.bds_py_26_light.png"
+    },
+    {
+      "name": "夏のstar－monight",
+      "file": "夏のstarmonight.bds",
+      "thumb": "夏のstarmonight.bds_py_26_light_thumb.png",
+      "full": "夏のstarmonight.bds_py_26_light.png"
+    },
+    {
+      "name": "七の掉落",
+      "file": "七の掉落.bds",
+      "thumb": "七の掉落.bds_py_26_default_thumb.png",
+      "full": "七の掉落.bds_py_26_default.png"
+    },
+    {
+      "name": "星纸活页本",
+      "file": "lieの星纸活页本.bds",
+      "thumb": "lieの星纸活页本.bds_py_26_light_thumb.png",
+      "full": "lieの星纸活页本.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの地图",
+      "file": "lieの地图.bds",
+      "thumb": "lieの地图.bds_py_26_light_thumb.png",
+      "full": "lieの地图.bds_py_26_light.png"
+    },
+    {
+      "name": "七の免永03",
+      "file": "七の03.bds",
+      "thumb": "七の03.bds_py_26_light_thumb.png",
+      "full": "七の03.bds_py_26_light.png"
+    },
+    {
+      "name": "琼羽绡〔闷〕",
+      "file": "琼羽绡闷.bds",
+      "thumb": "琼羽绡闷.bds_py_26_default_thumb.png",
+      "full": "琼羽绡闷.bds_py_26_default.png"
+    },
+    {
+      "name": "七の免永05",
+      "file": "七の05.bds",
+      "thumb": "七の05.bds_py_26_default_thumb.png",
+      "full": "七の05.bds_py_26_default.png"
+    },
+    {
+      "name": "夏の熊想去旅游",
+      "file": "夏の熊想去旅游.bds",
+      "thumb": "夏の熊想去旅游.bds_py_26_light_thumb.png",
+      "full": "夏の熊想去旅游.bds_py_26_light.png"
+    },
+    {
+      "name": "七の07",
+      "file": "七の07.bds",
+      "thumb": "七の07.bds_py_26_light_thumb.png",
+      "full": "七の07.bds_py_26_light.png"
+    },
+    {
+      "name": "简粉",
+      "file": "lieの简粉.bds",
+      "thumb": "lieの简粉.bds_py_26_light_thumb.png",
+      "full": "lieの简粉.bds_py_26_light.png"
+    },
+    {
+      "name": "常叶青",
+      "file": "lieの常叶青脆.bds",
+      "thumb": "lieの常叶青脆.bds_py_26_light_thumb.png",
+      "full": "lieの常叶青脆.bds_py_26_light.png"
+    },
+    {
+      "name": "七の08",
+      "file": "七的08.bds",
+      "thumb": "七的08.bds_py_26_light_thumb.png",
+      "full": "七的08.bds_py_26_light.png"
+    },
+    {
+      "name": "七の免永04",
+      "file": "七の04.bds",
+      "thumb": "七の04.bds_py_26_light_thumb.png",
+      "full": "七の04.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの无名氏",
+      "file": "lieの无名氏.bds",
+      "thumb": "lieの无名氏.bds_py_26_light_thumb.png",
+      "full": "lieの无名氏.bds_py_26_light.png"
+    },
+    {
+      "name": "lieのooinp",
+      "file": "lieのooinp有动效.bds",
+      "thumb": "lieのooinp有动效.bds_py_26_light_thumb.png",
+      "full": "lieのooinp有动效.bds_py_26_light.png"
+    },
+    {
+      "name": "lieのDellac9uoen*",
+      "file": "lieのDellac9uoen.bds",
+      "thumb": "lieのDellac9uoen.bds_py_26_light_thumb.png",
+      "full": "lieのDellac9uoen.bds_py_26_light.png"
+    },
+    {
+      "name": "夏の飞鹤奶粉",
+      "file": "夏の飞鹤奶粉.bds",
+      "thumb": "夏の飞鹤奶粉.bds_py_26_light_thumb.png",
+      "full": "夏の飞鹤奶粉.bds_py_26_light.png"
+    },
+    {
+      "name": "琼羽绡〔脆〕",
+      "file": "琼羽绡脆.bds",
+      "thumb": "琼羽绡脆.bds_py_26_default_thumb.png",
+      "full": "琼羽绡脆.bds_py_26_default.png"
+    },
+    {
+      "name": "lieの落栀尾信茷",
+      "file": "lieの落栀尾信茷.bds",
+      "thumb": "lieの落栀尾信茷.bds_py_26_light_thumb.png",
+      "full": "lieの落栀尾信茷.bds_py_26_light.png"
+    },
+    {
+      "name": "七の掉落",
+      "file": "七の掉落.bdi",
+      "thumb": "七の掉落.bdi_py_26_default_thumb.png",
+      "full": "七の掉落.bdi_py_26_default.png"
+    },
+    {
+      "name": "夏のstar－monight",
+      "file": "夏のstarmonight.bdi",
+      "thumb": "夏のstarmonight.bdi_py_26_light_thumb.png",
+      "full": "夏のstarmonight.bdi_py_26_light.png"
+    },
+    {
+      "name": "lieの无名氏",
+      "file": "lieの无名氏.bdi",
+      "thumb": "lieの无名氏.bdi_py_26_light_thumb.png",
+      "full": "lieの无名氏.bdi_py_26_light.png"
+    },
+    {
+      "name": "常叶青",
+      "file": "lieの常叶青闷.bdi",
+      "thumb": "lieの常叶青闷.bdi_py_26_light_thumb.png",
+      "full": "lieの常叶青闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "夏の熊想去旅游",
+      "file": "夏の熊想去旅游.bdi",
+      "thumb": "夏の熊想去旅游.bdi_py_26_light_thumb.png",
+      "full": "夏の熊想去旅游.bdi_py_26_light.png"
+    },
+    {
+      "name": "星纸活页本",
+      "file": "lieの星纸活页本.bdi",
+      "thumb": "lieの星纸活页本.bdi_py_26_light_thumb.png",
+      "full": "lieの星纸活页本.bdi_py_26_light.png"
+    },
+    {
+      "name": "七の07",
+      "file": "七の07.bdi",
+      "thumb": "七の07.bdi_py_26_light_thumb.png",
+      "full": "七の07.bdi_py_26_light.png"
+    },
+    {
+      "name": "七の取名好难免永01",
+      "file": "七の01.bdi",
+      "thumb": "七の01.bdi_py_26_default_thumb.png",
+      "full": "七の01.bdi_py_26_default.png"
+    },
+    {
+      "name": "lieの落栀尾信茷",
+      "file": "lieの落栀尾信茷水滴.bdi",
+      "thumb": "lieの落栀尾信茷水滴.bdi_py_26_light_thumb.png",
+      "full": "lieの落栀尾信茷水滴.bdi_py_26_light.png"
+    },
+    {
+      "name": "七の免永05",
+      "file": "七の05.bdi",
+      "thumb": "七の05.bdi_py_26_default_thumb.png",
+      "full": "七の05.bdi_py_26_default.png"
+    },
+    {
+      "name": "lieのDellac9uoen*",
+      "file": "lieのDellac9uoen.bdi",
+      "thumb": "lieのDellac9uoen.bdi_py_26_light_thumb.png",
+      "full": "lieのDellac9uoen.bdi_py_26_light.png"
+    },
+    {
+      "name": "lieのooinp",
+      "file": "lieのooinp有动效.bdi",
+      "thumb": "lieのooinp有动效.bdi_py_26_light_thumb.png",
+      "full": "lieのooinp有动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "lieの落栀尾信茷",
+      "file": "lieの落栀尾信茷.bdi",
+      "thumb": "lieの落栀尾信茷.bdi_py_26_light_thumb.png",
+      "full": "lieの落栀尾信茷.bdi_py_26_light.png"
+    },
+    {
+      "name": "七の免永05",
+      "file": "七的05无声用这个.bdi",
+      "thumb": "七的05无声用这个.bdi_py_26_default_thumb.png",
+      "full": "七的05无声用这个.bdi_py_26_default.png"
+    },
+    {
+      "name": "琼羽绡〔脆〕",
+      "file": "琼羽绡脆.bdi",
+      "thumb": "琼羽绡脆.bdi_py_26_default_thumb.png",
+      "full": "琼羽绡脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "七の免永06",
+      "file": "七の06.bdi",
+      "thumb": "七の06.bdi_py_26_default_thumb.png",
+      "full": "七の06.bdi_py_26_default.png"
+    },
+    {
+      "name": "夏の双生子",
+      "file": "夏の双生子.bdi",
+      "thumb": "夏の双生子.bdi_py_26_light_thumb.png",
+      "full": "夏の双生子.bdi_py_26_light.png"
+    },
+    {
+      "name": "七の免永04",
+      "file": "七の04.bdi",
+      "thumb": "七の04.bdi_py_26_light_thumb.png",
+      "full": "七の04.bdi_py_26_light.png"
+    },
+    {
+      "name": "常叶青",
+      "file": "lieの常叶青脆.bdi",
+      "thumb": "lieの常叶青脆.bdi_py_26_light_thumb.png",
+      "full": "lieの常叶青脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "七の免永03",
+      "file": "七の03.bdi",
+      "thumb": "七の03.bdi_py_26_light_thumb.png",
+      "full": "七の03.bdi_py_26_light.png"
+    },
+    {
+      "name": "lieの地图",
+      "file": "lieの地图.bdi",
+      "thumb": "lieの地图.bdi_py_26_light_thumb.png",
+      "full": "lieの地图.bdi_py_26_light.png"
+    },
+    {
+      "name": "lieの太聪明",
+      "file": "lieの太聪明闷.bdi",
+      "thumb": "lieの太聪明闷.bdi_py_26_light_thumb.png",
+      "full": "lieの太聪明闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "七の08",
+      "file": "七的08.bdi",
+      "thumb": "七的08.bdi_py_26_light_thumb.png",
+      "full": "七的08.bdi_py_26_light.png"
+    },
+    {
+      "name": "七的02",
+      "file": "七の02.bdi",
+      "thumb": "七の02.bdi_py_26_light_thumb.png",
+      "full": "七の02.bdi_py_26_light.png"
+    },
+    {
+      "name": "简粉",
+      "file": "lieの简粉.bdi",
+      "thumb": "lieの简粉.bdi_py_26_light_thumb.png",
+      "full": "lieの简粉.bdi_py_26_light.png"
+    },
+    {
+      "name": "夏の飞鹤奶粉",
+      "file": "夏の飞鹤奶粉.bdi",
+      "thumb": "夏の飞鹤奶粉.bdi_py_26_light_thumb.png",
+      "full": "夏の飞鹤奶粉.bdi_py_26_light.png"
+    },
+    {
+      "name": "lieのooinp",
+      "file": "lieのooinp无动效.bdi",
+      "thumb": "lieのooinp无动效.bdi_py_26_light_thumb.png",
+      "full": "lieのooinp无动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "lieの太聪明",
+      "file": "lieの太聪明.bdi",
+      "thumb": "lieの太聪明.bdi_py_26_light_thumb.png",
+      "full": "lieの太聪明.bdi_py_26_light.png"
+    },
+    {
+      "name": "琼羽绡〔闷〕",
+      "file": "琼羽绡闷.bdi",
+      "thumb": "琼羽绡闷.bdi_py_26_default_thumb.png",
+      "full": "琼羽绡闷.bdi_py_26_default.png"
+    }
+  ]
+}
