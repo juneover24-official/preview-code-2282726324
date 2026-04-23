@@ -1,80 +1,8 @@
 {
   "qq_number": "2282726324",
   "group_number": "688296619",
-  "updated_at": "2026-04-22T16:19:17.453972",
+  "updated_at": "2026-04-23T15:52:37.276629",
   "skins": [
-    {
-      "name": "lie のU&FakeMemory",
-      "file": "lieのUFakeMemory.bds",
-      "thumb": "lieのUFakeMemory.bds_py_26_light_thumb.png",
-      "full": "lieのUFakeMemory.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "lieの世界をつなく神忠節信者.bds",
-      "thumb": "lieの世界をつなく神忠節信者.bds_py_26_light_thumb.png",
-      "full": "lieの世界をつなく神忠節信者.bds_py_26_light.png"
-    },
-    {
-      "name": "lieの행복이찾아온다",
-      "file": "lieの행복이찾아온다动效一脆.bds",
-      "thumb": "lieの행복이찾아온다动效一脆.bds_py_26_light_thumb.png",
-      "full": "lieの행복이찾아온다动效一脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "lieの世界をつなく神忠節信者闷.bds",
-      "thumb": "lieの世界をつなく神忠節信者闷.bds_py_26_light_thumb.png",
-      "full": "lieの世界をつなく神忠節信者闷.bds_py_26_light.png"
-    },
-    {
-      "name": "lieの행복이찾아온다",
-      "file": "lieの행복이찾아온다动效二脆.bds",
-      "thumb": "lieの행복이찾아온다动效二脆.bds_py_26_light_thumb.png",
-      "full": "lieの행복이찾아온다动效二脆.bds_py_26_light.png"
-    },
-    {
-      "name": "lieのmeowmeow印",
-      "file": "lieのmeowmeow印.bds",
-      "thumb": "lieのmeowmeow印.bds_py_26_light_thumb.png",
-      "full": "lieのmeowmeow印.bds_py_26_light.png"
-    },
-    {
-      "name": "lie のU&FakeMemory",
-      "file": "lieのUFakeMemory脆.bds",
-      "thumb": "lieのUFakeMemory脆.bds_py_26_light_thumb.png",
-      "full": "lieのUFakeMemory脆.bds_py_26_light.png"
-    },
-    {
-      "name": "白偶天使夢",
-      "file": "白偶天使夢脆.bds",
-      "thumb": "白偶天使夢脆.bds_py_26_light_thumb.png",
-      "full": "白偶天使夢脆.bds_py_26_light.png"
-    },
-    {
-      "name": "白偶天使夢",
-      "file": "白偶天使夢闷.bds",
-      "thumb": "白偶天使夢闷.bds_py_26_light_thumb.png",
-      "full": "白偶天使夢闷.bds_py_26_light.png"
-    },
-    {
-      "name": "lieの행복이찾아온다",
-      "file": "lieの행복이찾아온다动效一闷.bds",
-      "thumb": "lieの행복이찾아온다动效一闷.bds_py_26_light_thumb.png",
-      "full": "lieの행복이찾아온다动效一闷.bds_py_26_light.png"
-    },
-    {
-      "name": "lieの誰も知らない私",
-      "file": "lieの誰も知らない私.bds",
-      "thumb": "lieの誰も知らない私.bds_py_26_light_thumb.png",
-      "full": "lieの誰も知らない私.bds_py_26_light.png"
-    },
-    {
-      "name": "lieの행복이찾아온다",
-      "file": "lieの행복이찾아온다动效二闷.bds",
-      "thumb": "lieの행복이찾아온다动效二闷.bds_py_26_light_thumb.png",
-      "full": "lieの행복이찾아온다动效二闷.bds_py_26_light.png"
-    },
     {
       "name": "白偶天使夢",
       "file": "lieの白偶天使闷夢.bdi",
@@ -158,6 +86,78 @@
       "file": "lieの행복이찾아온다动效二脆.bdi",
       "thumb": "lieの행복이찾아온다动效二脆.bdi_py_26_light_thumb.png",
       "full": "lieの행복이찾아온다动效二脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "lie のU&FakeMemory",
+      "file": "lieのUFakeMemory.bds",
+      "thumb": "lieのUFakeMemory.bds_py_26_light_thumb.png",
+      "full": "lieのUFakeMemory.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "lieの世界をつなく神忠節信者.bds",
+      "thumb": "lieの世界をつなく神忠節信者.bds_py_26_light_thumb.png",
+      "full": "lieの世界をつなく神忠節信者.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの행복이찾아온다",
+      "file": "lieの행복이찾아온다动效一脆.bds",
+      "thumb": "lieの행복이찾아온다动效一脆.bds_py_26_light_thumb.png",
+      "full": "lieの행복이찾아온다动效一脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "lieの世界をつなく神忠節信者闷.bds",
+      "thumb": "lieの世界をつなく神忠節信者闷.bds_py_26_light_thumb.png",
+      "full": "lieの世界をつなく神忠節信者闷.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの행복이찾아온다",
+      "file": "lieの행복이찾아온다动效二脆.bds",
+      "thumb": "lieの행복이찾아온다动效二脆.bds_py_26_light_thumb.png",
+      "full": "lieの행복이찾아온다动效二脆.bds_py_26_light.png"
+    },
+    {
+      "name": "lieのmeowmeow印",
+      "file": "lieのmeowmeow印.bds",
+      "thumb": "lieのmeowmeow印.bds_py_26_light_thumb.png",
+      "full": "lieのmeowmeow印.bds_py_26_light.png"
+    },
+    {
+      "name": "lie のU&FakeMemory",
+      "file": "lieのUFakeMemory脆.bds",
+      "thumb": "lieのUFakeMemory脆.bds_py_26_light_thumb.png",
+      "full": "lieのUFakeMemory脆.bds_py_26_light.png"
+    },
+    {
+      "name": "白偶天使夢",
+      "file": "白偶天使夢脆.bds",
+      "thumb": "白偶天使夢脆.bds_py_26_light_thumb.png",
+      "full": "白偶天使夢脆.bds_py_26_light.png"
+    },
+    {
+      "name": "白偶天使夢",
+      "file": "白偶天使夢闷.bds",
+      "thumb": "白偶天使夢闷.bds_py_26_light_thumb.png",
+      "full": "白偶天使夢闷.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの행복이찾아온다",
+      "file": "lieの행복이찾아온다动效一闷.bds",
+      "thumb": "lieの행복이찾아온다动效一闷.bds_py_26_light_thumb.png",
+      "full": "lieの행복이찾아온다动效一闷.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの誰も知らない私",
+      "file": "lieの誰も知らない私.bds",
+      "thumb": "lieの誰も知らない私.bds_py_26_light_thumb.png",
+      "full": "lieの誰も知らない私.bds_py_26_light.png"
+    },
+    {
+      "name": "lieの행복이찾아온다",
+      "file": "lieの행복이찾아온다动效二闷.bds",
+      "thumb": "lieの행복이찾아온다动效二闷.bds_py_26_light_thumb.png",
+      "full": "lieの행복이찾아온다动效二闷.bds_py_26_light.png"
     }
   ]
 }
