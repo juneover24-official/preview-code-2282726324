@@ -1,7 +1,7 @@
 {
   "qq_number": "2282726324",
   "group_number": "460305962",
-  "updated_at": "2026-07-16T01:30:20+00:00",
+  "updated_at": "2026-07-16T01:31:46+00:00",
   "skins": [
     {
       "name": "团购10人赠送",
@@ -50,6 +50,12 @@
       "file": "春日筏一融.bds",
       "thumb": "春日筏一融.bds_py_26_light_thumb.png",
       "full": "春日筏一融.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "春日筏二融",
+      "file": "春日筏二融.bds",
+      "thumb": "春日筏二融.bds_py_26_light_thumb.png",
+      "full": "春日筏二融.bds_py_26_light_thumb.png"
     }
   ]
 }
