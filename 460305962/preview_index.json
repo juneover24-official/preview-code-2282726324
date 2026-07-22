@@ -1,7 +1,7 @@
 {
   "qq_number": "2282726324",
   "group_number": "460305962",
-  "updated_at": "2026-07-22T12:17:44+00:00",
+  "updated_at": "2026-07-22T23:18:40+00:00",
   "skins": [
     {
       "name": "团购10人赠送",
@@ -68,6 +68,12 @@
       "file": "Valuri.bdi",
       "thumb": "Valuri.bdi_py_26_light_thumb.png",
       "full": "Valuri.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Valuri融",
+      "file": "Valuri融.bds",
+      "thumb": "Valuri融.bds_py_26_light_thumb.png",
+      "full": "Valuri融.bds_py_26_light_thumb.png"
     }
   ]
 }
